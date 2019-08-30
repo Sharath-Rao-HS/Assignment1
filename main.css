@@ -1,0 +1,59 @@
+
+
+.my-col
+	{
+	
+		background-color: white;
+    	height: 500px;
+    	width: 300px;
+    	margin-top:10px;
+    	margin-bottom:10px;    
+	}
+.my-col-border {
+	border-right: 1px solid #e1f1ff;
+}
+.my-row{
+			border: 1px solid white;
+		
+			width: 100%;
+			height: 200%;
+			margin: 90px 9px;
+  			background-color: white;
+  			    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .5rem;
+    box-sizing: border-box
+		}
+body{
+			 
+			  background: linear-gradient(#5da7fe 50%, #f2f6fa 40%) no-repeat
+	}
+.my-heading{
+	color: #7c90a9;
+	letter-spacing: 0.1em;
+	font-weight:bold;
+}
+.card-header > img {
+	margin-top: 10px;
+}
+.my-card-content{
+	letter-spacing: 0.1em;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+    font-weight: bold;
+    color: #5da7fe;
+    text-align:center;
+    font-size:smaller;
+    font-family: 'Montserrat', sans-serif;
+}
+.cost{
+	    text-align: center;
+    font-size: -webkit-xxx-large;
+    color:#5da7fe;
+    font-weight: bold;
+     font-family: 'Montserrat', sans-serif;
+}
+.my-card-cost{
+	text-align: center;
+}
